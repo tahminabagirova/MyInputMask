@@ -1,0 +1,16 @@
+.inputGroup{
+    width: 500px;
+    border:1px solid black;
+}
+
+input{
+    height:20px;
+    width:2%;
+    border:none;
+    outline:none;
+
+}
+
+input:focus{
+    border: none !important;
+}
